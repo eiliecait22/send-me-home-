@@ -2,3 +2,6 @@ body{background-color:#eaea81;}
 h1{color:#79af9d;} 
 h2{color:#a8a2d6;}
 p{color:#c4aeb8;}
+ul{list-style-type: none;
+  margin:0;
+  padding:0;}
