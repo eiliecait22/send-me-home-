@@ -24,3 +24,8 @@ li a:hover {
 .active {
     background-color: #a8a2d6;
 }
+ul {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
