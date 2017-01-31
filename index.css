@@ -10,8 +10,8 @@ div {width: 500px;
   padding: 25px;
   margin:20px;} 
 ul{list-style-type: none;
-  margin:60px;
-  padding:80px;}
+  margin:10px;
+  padding:10px;}
 li{display: inline;}
 li{float: left;}
 li a{display: block;
