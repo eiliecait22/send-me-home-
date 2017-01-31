@@ -17,3 +17,4 @@ li a:hover {
 .active {
     background-color: #a8a2d6;
 }
+<li><a class="active" href="#home">Home</a></li>
