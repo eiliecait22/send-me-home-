@@ -13,7 +13,7 @@ ul{list-style-type: none;
   margin:0;
   padding:0;}
 li{display: inline;}
-li{float: middle;}
+li{float: left;}
 a{display: block;
   padding: 5px; 
   background color:#a8a2d6;}
