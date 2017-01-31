@@ -18,3 +18,8 @@ li a:hover {
     background-color: #a8a2d6;
 }
 <li><a class="active" href="#home">Home</a></li>
+ul {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
