@@ -21,3 +21,6 @@ ul{ background color:#a8a2d6;}
 li a:hover {
     background-color: #f28482;
 }
+.active {
+    background-color: #a8a2d6;
+}
