@@ -12,6 +12,12 @@ ul{list-style-type: none;
   margin:0px;
   padding:0px;}
 li{display: inline;}
+ul{
+  width: 500px;
+  padding-left: 0px;
+  float: right;
+  height: 54px;
+}
 li{float: left;}
 li a{display: block;
   padding: 15px; 
